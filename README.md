@@ -1,5 +1,9 @@
 # agro_monitor
+Front End para aplicación web con Vue.JS usando Quasar Framework, HTML5, JS, CSS, para la gestión de parcelas.
+Dichas parcelas son visualizadas en un mapa digital usando la biblioteca Leaflet y sus Herramientas principalmente Geoman.
 
+Esta aplicación se inspira en OneSoil.
+Aun en etapa de desarrollo, trabajo en equipo.
 
 ![Untitled](https://user-images.githubusercontent.com/88858065/129654799-d457d9ab-981d-4b7c-a0ad-40a85ff233bf.jpg)
 ![Untitled10](https://user-images.githubusercontent.com/88858065/129654843-75f10af5-aea0-4ead-a4f2-f92b3857ee55.jpg)
